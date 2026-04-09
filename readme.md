@@ -6,6 +6,9 @@
 - [English](#english)
 
 ---
+## Test PR
+
+This is a test change to validate pull request flow.
 
 ## Português
 
@@ -154,6 +157,7 @@ Sistema próprio de categorização de campeões com base em estilo de jogo:
 ### Time
 
 Pedro Ribeiro Ramos – Lead Developer  
+Bruno Amin Galvão – Technical Advisor 
 
 ## English
 
@@ -293,3 +297,5 @@ Custom system to categorize champions based on playstyle:
 ### Team
 
 Pedro Ribeiro Ramos – Lead Developer  
+Bruno Amin Galvão – Technical Advisor 
+
