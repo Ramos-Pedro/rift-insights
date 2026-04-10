@@ -6,9 +6,6 @@
 - [English](#english)
 
 ---
-## Test PR
-
-This is a test change to validate pull request flow.
 
 ## Português
 
